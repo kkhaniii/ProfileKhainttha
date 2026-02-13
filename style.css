@@ -45,3 +45,99 @@ color: white;
  font-weight: 700;
  letter-spacing: 0.48px;
  word-wrap: break-word
+
+// Home
+color: #BE0707;
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 700;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// Services
+color: var(--Grays-Black, black);
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 500;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// About me
+color: var(--Grays-Black, black);
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 500;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// Portfolio
+color: var(--Grays-Black, black);
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 500;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// Contact me
+color: var(--Grays-Black, black);
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 500;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// Hire Me
+color: white;
+ font-size: 16px;
+ font-family: Lato;
+ font-weight: 700;
+ letter-spacing: 0.48px;
+ word-wrap: break-word
+---
+// Hi I am
+color: #707070;
+ font-size: 24px;
+ font-family: Lato;
+ font-weight: 600;
+ letter-spacing: 0.72px;
+ word-wrap: break-word
+---
+// Khanittha khunmee
+color: #959595;
+ font-size: 28px;
+ font-family: Lato;
+ font-weight: 700;
+ letter-spacing: 0.84px;
+ word-wrap: break-word
+---
+// UI/UX designer
+color: #BE0707;
+ font-size: 70px;
+ font-family: Lato;
+ font-weight: 900;
+ letter-spacing: 2.10px;
+ word-wrap: break-word
+---
+//     I graduated from Chiang Mai University with a degree in Computer Science and have a strong interest in programming and software design. From the perspective of a UX/UI Designer, I believe that good design should enable users to interact with the system easily and intuitively, without causing confusion, while also maintaining visual appeal to attract and encourage continued engagement. From the perspective <br/>of a Programmer, I am capable of developing programs that are simple, readable, and easy to maintain. I also have a solid understanding of data structure design and the ability to apply data structures and algorithms to create efficient and systematic solutions.
+color: #575757;
+ font-size: 20px;
+ font-family: Arial;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Hire Me
+color: white;
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 700;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
+---
+// Downlead CV 
+color: #959595;
+ font-size: 20px;
+ font-family: Lato;
+ font-weight: 700;
+ letter-spacing: 0.60px;
+ word-wrap: break-word
